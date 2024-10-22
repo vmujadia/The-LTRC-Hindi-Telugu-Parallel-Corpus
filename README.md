@@ -1,4 +1,5 @@
 # The-LTRC-Hindi-Telugu-Parallel-Corpus
+https://aclanthology.org/2022.lrec-1.365/
 
 ### Vandan Mujadia, Dipti Sharma
 ### European Language Resources Association
