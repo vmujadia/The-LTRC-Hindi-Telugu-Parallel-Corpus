@@ -1,11 +1,7 @@
 # The-LTRC-Hindi-Telugu-Parallel-Corpus
 
-
-The LTRC Hindi-Telugu Parallel Corpus
-European Language Resources Association
-Vandan Mujadia, Dipti Sharma
-
-cite
+### Vandan Mujadia, Dipti Sharma
+### European Language Resources Association
 
 ```
 @inproceedings{mujadia-sharma-2022-ltrc,
@@ -34,4 +30,12 @@ cite
     pages = "3417--3424",
     abstract = "We present the Hindi-Telugu Parallel Corpus of different technical domains such as Natural Science, Computer Science, Law and Healthcare along with the General domain. The qualitative corpus consists of 700K parallel sentences of which 535K sentences were created using multiple methods such as extract, align and review of Hindi-Telugu corpora, end-to-end human translation, iterative back-translation driven post-editing and around 165K parallel sentences were collected from available sources in the public domain. We present the comparative assessment of created parallel corpora for representativeness and diversity. The corpus has been pre-processed for machine translation, and we trained a neural machine translation system using it and report state-of-the-art baseline results on the developed development set over multiple domains and on available benchmarks. With this, we define a new task on Domain Machine Translation for low resource language pairs such as Hindi and Telugu. The developed corpus (535K) is freely available for non-commercial research and to the best of our knowledge, this is the well curated, largest, publicly available domain parallel corpus for Hindi-Telugu.",
 }
+```
+
+```
+    "submitter": {
+        "name": "LTRC, IIIT-Hyderabad",
+        "about": "Hindi – Telugu Parallel corpus developed under ILMT Hindi-Telugu Pilot by IIIT-Hyderabad. Funded by Meity , Gov. of India",
+        ]
+    }
 ```
